@@ -2,3 +2,5 @@
 .*.swp
 /env
 *.db
+*.json
+drops.txt
