@@ -6,3 +6,5 @@ class AmazonItem(Item):
     title = Field()
     image = Field()
     price = Field()
+    description = Field()
+    in_stock = Field()
