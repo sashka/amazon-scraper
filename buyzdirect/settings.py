@@ -15,3 +15,14 @@ ITEM_PIPELINES = [
 CONCURRENT_REQUESTS = 32
 CONCURRENT_REQUESTS_PER_DOMAIN = CONCURRENT_REQUESTS
 HTTPCACHE_ENABLED = True
+
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy_proxynova.middleware.HttpProxyMiddleware': 543,
+}
+
+PROXY_SERVER_COUNTRY = 'us'
+PROXY_SERVER_LIMIT = 100
+
+EXTENSIONS = {
+    'buyzdirect.extensions.FinalStats': 500,
+}
