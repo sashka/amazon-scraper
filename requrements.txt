@@ -2,3 +2,4 @@ Twisted==12.2.0
 Scrapy==0.16.3
 requests==0.14.2
 -e git+git://github.com/svetlyak40wt/scrapy-proxynova.git@924272cc9c0d67aec028173eb055911e6ae15a33#egg=scrapy-proxynova
+-e git+git://github.com/svetlyak40wt/scrapy-useragents.git@8b289b808f828f139724b17f862eb07bcd0705b4#egg=scrapy-useragents

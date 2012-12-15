@@ -1,0 +1,1148 @@
+-
+0gx365wt
+AdsBot-Google (+http://www.google.com/adsbot.html)
+AdsBot-Google-Mobile (+http://www.google.com/mobile/adsbot.html) Mozilla (iPhone; U; CPU iPhone OS 3 0 like Mac OS X) AppleWebKit (KHTML, like Gecko) Mobile Safari
+Apache-HttpClient/4.1 (java 1.5)
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~feedly-social)
+Comodo-Certificates-Spider
+Dalvik/1.6.0 (Linux; U; Android 4.0.3; HUAWEI MediaPad Build/HuaweiMediaPad)
+Debian APT-HTTP/1.3 (0.8.10.3)
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+DoCoMo/2.0 P900i(c100;TB;W24H11) (compatible; ichiro/mobile goo; +http://search.goo.ne.jp/option/use/sub4/sub4-1/)
+Drupal (+http://drupal.org/)
+FeedBot
+FeedBurner/1.0 (http://www.FeedBurner.com)
+FeeddlerRSS/1.12.5 CFNetwork/609 Darwin/13.0.0
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=10577599728731268512)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=11561563939862941686)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=12578357852970435013)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=14363987342727297473)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=1656187795950100757)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=17907658941572211764)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=4522840702967528460)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=6339677911628117298)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=7509472847324462645)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 1 subscribers; feed-id=9441724386265136345)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 2 subscribers; feed-id=6438497127630480628)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 6 subscribers; feed-id=15011272497272081529)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; 73 subscribers; feed-id=6508192621497600711)
+Feedfetcher-Google; (+http://www.google.com/feedfetcher.html; feed-id=4261485722055001775)
+Google/2.0.1.10455 CFNetwork/548.1.4 Darwin/11.0.0
+Google/2.5.1.13455 CFNetwork/609 Darwin/13.0.0
+GoogleProducer; (+http://goo.gl/7y4SX)
+Googlebot-Image/1.0
+Googlebot/2.1 (+http://www.google.com/bot.html)
+Gruml/1.3.0.610 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookPro7%2C1)
+Liferea/1.8-RC1 (Linux; de_DE.UTF-8; http://liferea.sf.net/)
+LiveJournal.com (webmaster@livejournal.com; for http://www.livejournal.com/users/svetlyak_ru/; 14 readers)
+Lynx/2.8.5rel.1 libwww-FM/2.15FC SSL-MM/1.4.1c OpenSSL/0.9.7e-dev
+Mercury/7.1 CFNetwork/485.13.9 Darwin/11.0.0
+Microsoft Office Protocol Discovery
+Mozilla/3.0 (compatible; Indy Library)
+Mozilla/3.0 (x86 [en] Windows NT 5.1; Sun)
+Mozilla/4.0 (Windows 98; US) Opera 10.00 [en]
+Mozilla/4.0 (compatible; ICS)
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0 [en]
+Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.02 Bork-edition [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Q312461; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;  Embedded Web Browser from: http://bsalsa.com/)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Avant Browser [avantbrowser.com]; Hotbar 4.4.5.0)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts-MyWay)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; PeoplePal 6.2)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; MRA 4.6 (build 01425); .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.6)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB7.4; .NET CLR 1.1.4322; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 4.10 (build 01952); MRSPUTNIK 1, 8, 0, 17 SW)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MRA 5.8 (build 4157); .NET CLR 2.0.50727; AskTbPTV/5.11.3.15590)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MyIE2; MRSPUTNIK 2, 4, 1, 24; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; WebMoney Advisor; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler ; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;)
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Win64; AMD64)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.40607;  .NET CLR 3.0.30729;  .NET CLR 3.5.30729;  InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; AskTB5.5)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MRSPUTNIK 2, 4, 0, 484; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MRSPUTNIK 2, 4, 0, 516; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; RubarToolbar9060)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; RadioClicker LITE; RadioClicker http://radioclicker.com; .NET CLR 1.1.4322; .NET CLR 2.0.50727; RADIOCLICKER LITE; RadioClicker 8.0.8.0)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 3.0.04506.30; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.4; MRSPUTNIK 2, 0, 0, 17 SW; InfoPath.2; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 432; GTB7.4; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 493; MRA 5.5 (build 02842); Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; AskTbALSV5/5.15.4.23821)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 516; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 534; MRA 5.10 (build 5310); .NET CLR 2.0.50727; AskTbAVR-3/5.15.11.30498; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SIMBAR={3D25C7A9-7B65-11E1-9F8D-00A0C6000000}; GTB7.4; EasyBits GO v1.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; .NET CLR 3.0.4506.2152; BRI/2; msn OptimizedIE8;ITIT)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; {0280F7A5-DF6A-6606-F734-EC7153A8DE69}; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; yie8)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; YPC 3.0.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SLCC1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.04506.648)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2;  SV1;  .NET CLR 1.1.4322;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; Win64; x64; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB7.4; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; MRA 5.5 (build 02842); MRSPUTNIK 2, 4, 1, 63; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/5.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET4.0C; .NET CLR 3.0.30729; BRI/2)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; BTRS129896; MRSPUTNIK 2, 4, 1, 74; MRA 6.0 (build 5976); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.7; .NET4.0C; .NET4.0E; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; MRA 5.9 (build 4953); MRSPUTNIK 2, 4, 0, 484; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 484; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; BRI/2; AskTB5.6)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 501; MRA 6.0 (build 5972); MRA 5.6 (build 03278); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; Tablet PC 2.0; .NET4.0C; .NET4.0E; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.2; MAMI; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; InfoPath.3; Media Center PC 6.0; BRI/2; MANM; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; AskTbBAV5/5.15.4.23821)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.1; .NET4.0C; Tablet PC 2.0)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; AskTbAVR-3/5.15.4.23930)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; AskTbAVR-W1/5.15.4.23930)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; AskTbMYC-ST/5.15.2.23037; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; VENUS_IE_ADDON1; Tablet PC 2.0; InfoPath.3; AskTbAVR-IDW/5.12.5.17700)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; BRI/2)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; Tablet PC 2.0; AskTB5.5)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET4.0C; InfoPath.1; BRI/2)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; eSobiSubscriber 2.0.4.16; MAAR; .NET4.0C; InfoPath.3; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; .NET4.0C; eSobiSubscriber 2.0.4.16; MAAR; SLCC2; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; MRSPUTNIK 2, 4, 1, 74; GTB7.4; MRA 6.0 (build 5972); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; AskTbPTV/5.17.0.25589)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; .NET4.0C; BRI/2; eSobiSubscriber 1.0.0.40; MAAR; SLCC2; AskTbPTV2/5.9.1.14019; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; .NET4.0C; BRI/2; eSobiSubscriber 1.0.0.40; MAAR; SLCC2; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; Media Center PC 6.0; BRI/2; MASE; Avant Browser)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; Media Center PC 6.0; MASE; InfoPath.3; BRI/2; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.1; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; HPNTDF; .NET4.0C; InfoPath.3)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; Zune 4.7)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; WebMoney Advisor; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; eSobiSubscriber 1.0.0.40; MAAR; .NET4.0C; .NET4.0E; BRI/2; MSOffice 12)
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; NP06; InfoPath.3; Tablet PC 2.0; .NET4.0C; Microsoft Outlook 14.0.6126; ms-office; MSOffice 14)
+Mozilla/4.0 (compatible; MSIE 8.0; Trident 4.0; Windows NT 5.0; MyIE2; ZangoToolbar 7.2.36)
+Mozilla/4.0 (compatible; MSIE 8.0; Trident 4.0; Windows NT 5.1; Zune 1.1.96; .NET CLR 7.6.57)
+Mozilla/4.0 (compatible; MSIE 8.0; Trident 4.0; Windows NT 6.1; InfoPath.2; .NET CLR 7.8.94; MEGAUPLOAD 7.2.58; Zango 7.4.80)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.1; .NET CLR 3.0.4506.2152; AskTbBLPV5/5.14.1.20007; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; WebMoney Advisor)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.3; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; AskTbW3I4/5.15.4.23821)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.3)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; WebMoney Advisor)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; InfoPath.3)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS105902; MRA 6.0 (build 6001); .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS121239; GTB7.4; EasyBits GO v1.0; .NET CLR 2.0.50727; .NET4.0C; .NET4.0E; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS122063; GTB7.3; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; msn OptimizedIE8;RURU)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; BTRS127398; GTB7.4; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; FDM; AskTbORJ/5.12.3.17451; WebMoney Advisor; OfficeLiveConnector.1.5; OfficeLivePatch.1.3; InfoPath.2; BRI/2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; EasyBits GO v1.0; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.4; .NET CLR 1.1.4322; AskTbUT2V5/5.11.3.15590)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; MRA 5.10 (build 5339); User-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET4.0C; .NET4.0E; MRIE8PACK 2.0.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.3; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; AskTbCFTP2V5/5.14.1.20007)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 1.1.4322; BRI/2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; BRI/1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; InfoPath.1; .NET CLR 2.0.50727; msn OptimizedIE8;RURU)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; MRSPUTNIK 2, 4, 1, 74; MRA 5.4 (build 02647); chromeframe/23.0.1271.97; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; chromeframe/23.0.1271.97; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; InfoPath.1; MS-RTC LM 8)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.1; RubarToolbar2758)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.3; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 5.10 (build 5265); .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET4.0C; AskTB5.6)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 5.10 (build 5310); .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 5.6 (build 03392); Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 6.0 (build 5754); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 6.0 (build 5998); .NET CLR 2.0.50727; .NET CLR 3.0.04506.03; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRA 6.0 (build 6001))
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 270; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 463; BTRS130316; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.3)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 484; GTB7.4; InfoPath.1; .NET4.0C; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 491; BTRS102908; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 493; MRA 6.0 (build 5970); .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 504; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; MAAU; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; MAAU)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 504; InfoPath.1; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 504; MRA 5.7 (build 03797))
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 516)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 516; GTB7.4; MRA 5.10 (build 5308); .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 525; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 110)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 110; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 110; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; WWTClient2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 14; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 74; MRA 6.0 (build 5976); .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.2; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 74; MRA 6.0 (build 5997); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 74; MRA 6.0 (build 6005); InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727; AskTbAVR-W1/5.15.4.23930)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MyIE2; GTB7.4; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; MRA 5.7 (build 03797); .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.2; WOW64; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB7.4; MRA 5.5 (build 02842); SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; AskTbBAV5/5.8.0.12217)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB7.4; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.1; .NET CLR 3.0.30618; .NET CLR 3.5.30729; AskTbSPC2/5.15.4.23821; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; MRSPUTNIK 2, 3, 0, 104; MRA 5.8 (build 4664); GTB7.4; MRA 5.8 (build 4664); SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET4.0C; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WebMoney Advisor; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618; .NET CLR 3.5.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; BTRS121213; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0; InfoPath.1; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; BTRS127398; MRSPUTNIK 2, 4, 0, 493; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; MRA 6.0 (build 6001); MRSPUTNIK 2, 4, 1, 74; EasyBits GO v1.0; MRA 6.0 (build 6001); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; MATM)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRA 5.10 (build 5244); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRA 6.0 (build 6011); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 2, 0, 94; MRA 6.0 (build 6001); SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 317; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 463; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322; AskTB5.5)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 508; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 1, 44; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Tablet PC 2.0; AskTbSPC2/5.15.4.23821)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; Media Center PC 6.0; Tablet PC 2.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.1)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; Tablet PC 2.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; MRSPUTNIK 2, 4, 0, 463; GTB7.4; SIMBAR={7E3A055A-1232-11E2-919C-003067A8CADE}; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; MRSPUTNIK 2, 4, 1, 110; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET CLR 1.1.4322)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3)
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; GTB6; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MAAU)
+Mozilla/4.0 (compatible; MSIE 9.0; Trident 5.0; Windows 98; MEGAUPLOAD 8.1.75; InfoPath.2; MSN Optimized)
+Mozilla/4.0 (compatible; MSIE 9.0; Trident 5.0; Windows NT 6.1; Dealio Toolbar 4.8.48; IEMB3)
+Mozilla/4.0 (compatible; MSIE 9.0; Trident 5.0; Windows NT 6.1; MEGAUPLOAD 3.0.34; MSN Optimized; MSN Optimized; Zango 5.4.29)
+Mozilla/4.0 (compatible; Synapse)
+Mozilla/4.0 (compatible; Y!J; for robot study)
+Mozilla/4.0 (compatible;)
+Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)
+Mozilla/5.0 (Java; U; ru; samsung-gt-s3850) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
+Mozilla/5.0 (Linux; Android 4.0.3; A511 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+Mozilla/5.0 (Linux; Android 4.0.3; GT-N7000 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+Mozilla/5.0 (Linux; Android 4.0.3; GT-P5100 Build/IML74K) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+Mozilla/5.0 (Linux; Android 4.0.4; GT-P3100 Build/IMM76D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+Mozilla/5.0 (Linux; Android 4.0.4; cm_tenderloin Build/IMM76L) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19
+Mozilla/5.0 (Linux; Android 4.1.1; GT-I9300 Build/JRO03C) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Mobile Safari/535.19
+Mozilla/5.0 (Linux; U; Android 2.1-update1; ru-ru; E15i Build/2.0.1.A.0.47) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17
+Mozilla/5.0 (Linux; U; Android 2.2.1; ru-ru; GT-I9003 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.2.1; ru-ru; HTC Wildfire Build/FRG83D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.2; fr-fr; Desire_A8181 Build/FRF91) App3leWebKit/53.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.2; nl-nl; Desire_A8181 Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.3.5; ru-ru; GT-I8150 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.3.5; ru-ru; HTC_WildfireS_A510e Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.3.6; en-us; GT-S5830M Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.3.6; ru-ru; GT-S5660 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 2.3.6; ru-ru; GT-S6102 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+Mozilla/5.0 (Linux; U; Android 3.1; ru-ru; GT-P7300 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
+Mozilla/5.0 (Linux; U; Android 3.1; ru-ru; GT-P7500 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
+Mozilla/5.0 (Linux; U; Android 4.0.2; en-us; Galaxy Nexus Build/ICL53F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; A501 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; A510 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; GT-P5100 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; GT-P5110 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; HUAWEI MediaPad Build/HuaweiMediaPad) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; LG-P705 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; PMP5097CPRO Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; Sony Tablet S Build/TISU0R0110) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.3; ru-ru; Transformer TF101G Build/IML74K) AppleWebKit/535.7 (KHTML, like Gecko) CrMo/16.0.912.75  Safari/535.7
+Mozilla/5.0 (Linux; U; Android 4.0.3; uk-ua; A200 Build/IML74K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.4; ru-ru; GT-N8000 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.4; ru-ru; GT-P3110 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.4; ru-ru; GT-P5100 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.0.4; ru-ru; ST21i2 Build/11.0.A.1.8) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; GT-I9300 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.1; ru-ru; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; A510 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; A511 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:12.0) Gecko/20100101 Firefox/12.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.5; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.50.2 (KHTML, like Gecko) Version/5.0.6 Safari/533.22.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1.2 Safari/534.52.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/534.57.7 (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.79 Safari/537.1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.14 (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.14 (KHTML, like Gecko) Version/6.0.1 Safari/536.26.14
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.26.17 (KHTML, like Gecko) Version/6.0.2 Safari/536.26.17
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/0.0.5; +http://flipboard.com/browserproxy)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6 (FlipboardProxy/1.1; +http://flipboard.com/browserproxy)
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; ru-ru) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_4_11; en) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/4.1.3 Safari/533.19.4
+Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-S8600/S8600XXLD1; U; Bada/2.0; ru-ru) AppleWebKit/534.20 (KHTML, like Gecko) Dolfin/3.0 Mobile WVGA SMM-MMS/1.2.0 OPN-B
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/21.0.025; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (Ubuntu; X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.77 Safari/534.24
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.100 Safari/534.30
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.5 Safari/534.30
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/15.0.849.0 Safari/535.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.46 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME ODKL
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.12 (KHTML, like Gecko) Maxthon/3.0 Chrome/18.0.966.0 Safari/535.12
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YE
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.164 Safari/535.19 YE
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.164 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.165 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19 Comodo_Dragon/18.3.0.0
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.3 (KHTML, like Gecko) Maxthon/3.3.3.1000 Chrome/16.0.883.0 Safari/535.3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7 MRCHROME
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7 YE
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7 u01-2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.46 Safari/536.5 Nichrome/self/19
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1096.1 Safari/536.6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.60 Safari/537.1 CoolNovo/2.0.4.16
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.77 Safari/537.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.79 Safari/537.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1200.0 Iron/21.0.1200.0  Safari/537.1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/25.0.1358.0 Safari/537.21
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4 u01-09
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.96 Safari/537.4
+Mozilla/5.0 (Windows NT 5.1; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 5.1; rv:10.0) Gecko/20100101 Firefox/10.0
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.11) Gecko/20100101 Firefox/10.0.11
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.3) Gecko/20100101 Firefox/10.0.3
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.4) Gecko/20100101 Firefox/10.0.4
+Mozilla/5.0 (Windows NT 5.1; rv:10.0.7) Gecko/20100101 Firefox/10.0.7
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20100101 Firefox/12.0
+Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20120513 Firefox/12.0
+Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:14.0) Gecko/20100101 Firefox/14.0
+Mozilla/5.0 (Windows NT 5.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:15.0) Gecko/20100101 Firefox/15.0
+Mozilla/5.0 (Windows NT 5.1; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (Windows NT 5.1; rv:16.0) Gecko/20100101 Firefox/16.0 BLNGBAR
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/17.0 Thunderbird/17.0
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/17.0 Thunderbird/17.0 Lightning/1.9
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/20100101 (766E1513-2C91-0F63-B8E1-49D31ED1C3C8) Firefox/17.0
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 5.1; rv:17.0) Gecko/20100101 Firefox/17.0 YB/7.2.6
+Mozilla/5.0 (Windows NT 5.1; rv:17.0; WUID=9baf4acd8c9ae6eb4cbcc960349f47d6; WTB=2958) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 5.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Mozilla/5.0 (Windows NT 5.1; rv:2.0) Gecko/20100101 Firefox/4.0
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 WebMoney Advisor
+Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0
+Mozilla/5.0 (Windows NT 5.1; rv:5.0.1) Gecko/20100101 Firefox/5.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0) Gecko/20100101 Firefox/6.0
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.1) Gecko/20100101 Firefox/6.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+Mozilla/5.0 (Windows NT 5.1; rv:7.0) Gecko/20100101 Firefox/7.0
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:8.0) Gecko/20100101 Firefox/8.0
+Mozilla/5.0 (Windows NT 5.1; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:9.0) Gecko/20100101 Firefox/9.0
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Windows NT 5.2; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (Windows NT 5.2; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 5.2; rv:12.0) Gecko/20100101 Firefox/12.0
+Mozilla/5.0 (Windows NT 5.2; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Mozilla/5.0 (Windows NT 5.2; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5
+Mozilla/5.0 (Windows NT 6.0; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (Windows NT 6.0; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+Mozilla/5.0 (Windows NT 6.0; rv:12.0) Gecko/20100101 Firefox/12.0
+Mozilla/5.0 (Windows NT 6.0; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (Windows NT 6.0; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Mozilla/5.0 (Windows NT 6.0; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (Windows NT 6.0; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.0; rv:17.0) Gecko/20100101 Firefox/17.0 YB/7.2.6
+Mozilla/5.0 (Windows NT 6.0; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1.2 Safari/534.52.7
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.186 Safari/535.1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.46 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.62 Safari/535.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.12 (KHTML, like Gecko) Maxthon/3.0 Chrome/18.0.966.0 Safari/535.12
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.152 Safari/535.19
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YE
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.164 Safari/535.19 YE
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.165 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.102 Safari/535.2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.861.0 Safari/535.2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7 MRCHROME
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.46 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5410 Chrome/19.1.1084.5410 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.60 Safari/537.1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1206.0 Safari/537.1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.2 Safari/537.4
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4 u01-09
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.46 Safari/535.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.46 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.47 Safari/535.11 MRCHROME ODKL
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11 CoolNovo/2.0.2.25
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.12 (KHTML, like Gecko) Maxthon/3.0 Chrome/18.0.966.0 Safari/535.12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.142 Safari/535.19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YE
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.1634 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.164 Safari/535.19 YE
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.165 Safari/535.19 YI
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.168 Safari/535.19 Comodo_Dragon/18.3.0.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7 u01-2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.27 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.47 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1150.1  Iron/20.0.1150.1 Safari/536.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.46 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.52 Safari/536.5 Comodo_Dragon/19.1.0.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5 Comodo_Dragon/19.2.0.0
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.91 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.2.0.0 Safari/537.11
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.14 (KHTML, like Gecko) Chrome/24.0.1293.0 Safari/537.14
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4 u01-09
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0) Gecko/20100101 Firefox/10.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1 AlexaToolbar/amznf-3.0.20121129
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 WebMoney Advisor
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:16.0) Gecko/16.0 Firefox/16.0a1
+Mozilla/5.0 (Windows NT 6.1; rv:10.0) Gecko/20100101 Firefox/10.0
+Mozilla/5.0 (Windows NT 6.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0
+Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0
+Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/15.0
+Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20100101 Firefox/17.0 BLNGBAR
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/20100101 Firefox/17.0 YB/7.2.6
+Mozilla/5.0 (Windows NT 6.1; rv:18.0) Gecko/20100101 Firefox/18.0
+Mozilla/5.0 (Windows NT 6.1; rv:2.0b7pre) Gecko/20100921 Firefox/4.0b7pre
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.0
+Mozilla/5.0 (Windows NT 6.1; rv:5.0) Gecko/20100101 Firefox/5.02
+Mozilla/5.0 (Windows NT 6.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+Mozilla/5.0 (Windows NT 6.1; rv:7.0.1) Gecko/20100101 Firefox/10.0a4
+Mozilla/5.0 (Windows NT 6.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+Mozilla/5.0 (Windows NT 6.1; rv:9.0) Gecko/20100101 Firefox/9.0
+Mozilla/5.0 (Windows NT 6.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/536.5 (KHTML, like Gecko) YaBrowser/1.1.1084.5409 Chrome/19.1.1084.5409 Safari/536.5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.21 (KHTML, like Gecko) Chrome/25.0.1358.0 Safari/537.21
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:15.0) Gecko/20120910144328 Firefox/15.0.2
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:17.0) Gecko/17.0 Thunderbird/17.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:20.0) Gecko/20121213 Firefox/20.0
+Mozilla/5.0 (Windows NT 6.2; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (Windows NT 6.2; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.38 Safari/532.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.89 Safari/532.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1064 Safari/532.5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.84 Safari/534.13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.98 Safari/534.13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9) Gecko/2008052906 Firefox/3.0
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15 GTB7.1 WebMoney Advisor
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.8.1.20) Gecko/20081217 Firefox/2.0.0.20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.8.1.8) Gecko/20071008 Firefox/2.0.0.8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9) Gecko/2008052906 Firefox/3.0 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.2) Gecko/20090729 Firefox/3.5.2 sputnik 2.5.2.66
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 sputnik 2.5.2.32
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2) Gecko/20100115 Firefox/3.6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18 sputnik 2.5.0.166 uToolBar/0.2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.20) Gecko/20110803 Firefox/3.6.20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.23) Gecko/20110920 Firefox/3.6.23
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.27) Gecko/20120216 Firefox/3.6.27
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 sputnik 2.5.3.31
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.28) Gecko/20120306 MRA 5.5 (build 02842) Firefox/3.6.28 sputnik 2.5.3.4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.6) Gecko/20100625 MRA 5.7 (build 03639) Firefox/3.6.6 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.2.9) Gecko/20100824 Firefox/3.6.9
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.0; trendictionbot0.5.0; trendiction search; http://www.trendiction.de/bot; please let us know of any problems; web at trendiction.com) Gecko/20071127 Firefox/3.0.0.11
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Comodo Dragon/1.0.0.10Chrome/3.0.195.33 Safari/532.0
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/4.0.223.0 Safari/532.2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.237 Safari/534.10
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.15) Gecko/2009101601 Firefox/3.0.15 ( .NET CLR 3.5.30729; .NET4.0C)
+Mozilla/5.0 (Windows; U; Windows NT 6.0; ru; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19
+Mozilla/5.0 (Windows; U; Windows NT 6.0; ru; rv:1.9.1.3) Gecko/20090824 MRA 5.5 (build 02812) Firefox/3.5.3 MRSpy/0.3.11 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 6.0; ru; rv:1.9.1b3) Gecko/20090304 Firefox/3.1b3
+Mozilla/5.0 (Windows; U; Windows NT 6.0; ru; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12 ( .NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 6.0; uk; rv:1.9.1.18) Gecko/20110319 Firefox/3.5.18 (.NET CLR 3.5.30729) sputnik 2.5.0.148
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.70 Safari/533.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.13 (KHTML, like Gecko) Chrome/9.0.597.98 Safari/534.13
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.134 Safari/534.16
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.59 Safari/534.3
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.41 Safari/534.7
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.8 Safari/534.7
+Mozilla/5.0 (Windows; U; Windows NT 6.1; lt; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.0.19) Gecko/2010031422 MRA 5.7 (build 03757) Firefox/3.0.19
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 sputnik 2.5.3.6
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2) Gecko/20100115 Firefox/3.6
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.12) Gecko/20101026 Firefox/3.6.12
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 sputnik 2.5.3.12
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.16) Gecko/20110319 Firefox/3.6.16 WebMoney Advisor
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.18) Gecko/20110614 MRA 5.7 (build 03796) Firefox/3.6.18 sputnik 2.4.0.48
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 RubarToolbar sputnik 2.5.3.26
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 MRA 5.6 (build 03278) Firefox/3.6.3 sputnik 2.1.0.18 WebMoney Advisor
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4 (.NET CLR 3.5.30729)
+Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.8) Gecko/20100727 Firefox/3.6.8 (Palemoon/3.6.8)
+Mozilla/5.0 (Windows; Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.9 Safari/534.30
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/536.10 (KHTML, like Gecko) Chrome/20.0.1123.4 Safari/536.10
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.79 Safari/537.1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.4 (KHTML, like Gecko) Ubuntu/12.10 Chromium/22.0.1229.94 Chrome/22.0.1229.94 Safari/537.4
+Mozilla/5.0 (X11; Linux i686; rv:10.0.11) Gecko/20100101 Firefox/10.0.11 Iceweasel/10.0.11
+Mozilla/5.0 (X11; Linux i686; rv:10.0.11) Gecko/20121120 Firefox/10.0.11
+Mozilla/5.0 (X11; Linux i686; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (X11; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0.1 Iceweasel/15.0.1
+Mozilla/5.0 (X11; Linux i686; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20110430 Firefox/4.0.1 Iceweasel/4.0.1 WebMoney Advisor
+Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20100101 Firefox/6.0
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.11 (KHTML, like Gecko) Ubuntu/12.04 Chromium/20.0.1132.47 Chrome/20.0.1132.47 Safari/536.11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.95 Safari/537.11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko) Ubuntu/12.10 Chromium/22.0.1229.94 Chrome/22.0.1229.94 Safari/537.4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.4 (KHTML, like Gecko; Google Web Preview) Chrome/22.0.1229 Safari/537.4
+Mozilla/5.0 (X11; Linux x86_64; rv:10.0.11) Gecko/20100101 Firefox/10.0.11
+Mozilla/5.0 (X11; Linux x86_64; rv:14.0) Gecko/20100101 Firefox/14.0.1
+Mozilla/5.0 (X11; Linux x86_64; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (X11; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (X11; Linux x86_64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/11.0.678.0 Safari/534.21
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.9) Gecko/20050711 Firefox/1.0.5
+Mozilla/5.0 (X11; U; Linux i686; pl; rv:1.8.0.7) Gecko/20060914 Firefox/1.5.0.7 (Swiftfox)
+Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3
+Mozilla/5.0 (X11; U; Linux x86_64; C) AppleWebKit/533.3 (KHTML, like Gecko) Qt/4.7.4 Safari/533.3
+Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Qt/4.7.1 Safari/533.3
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.19; aggregator:Spinn3r (Spinn3r 3.1); http://spinn3r.com/robot) Gecko/2010040121 Firefox/3.0.19
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:15.0) Gecko/20100101 Firefox/15.0.1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:16.0) Gecko/20100101 Firefox/16.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:17.0) Gecko/17.0 Firefox/17.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:13.0) Gecko/20100101 Firefox/13.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:13.0) Gecko/20100101 Firefox/13.0.1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:17.0) Gecko/20100101 Firefox/17.0
+Mozilla/5.0 (compatible; AcoonBot/4.11.1; +http://www.acoon.de/robot.asp)
+Mozilla/5.0 (compatible; Add Catalog/2.1;)
+Mozilla/5.0 (compatible; AhrefsBot/4.0; +http://ahrefs.com/robot/)
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+Mozilla/5.0 (compatible; BegunAdvertising/3.0; +http://begun.ru/begun/technology/indexer/)
+Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+Mozilla/5.0 (compatible; Firefox Addon; Windows XP 5.1)
+Mozilla/5.0 (compatible; FriendFeedBot/0.1; +Http://friendfeed.com/about/bot; 111 subscribers; feed-id=1622703448106744384)
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (compatible; JikeSpider; +http://shoulu.jike.com/spider.html)
+Mozilla/5.0 (compatible; MJ12bot/v1.4.3; http://www.majestic12.co.uk/bot.php?+)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; BOIE9;ENUS)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MALNJS)
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MASEJS)
+Mozilla/5.0 (compatible; MSIE 8.0; Trident 4.0; Windows 98; MEGAUPLOAD 4.0.77; Avant Browser; Maxthon; Maxthon)
+Mozilla/5.0 (compatible; MSIE 9.0; Trident 5.0; Windows 98; Crazy Browser 9.5.95; Crazy Browser 3.4.90;GB)
+Mozilla/5.0 (compatible; MSIE 9.0; Trident 5.0; Windows 98; MS-RTC LM 8; Dealio Toolbar 4.7.31; MEGAUPLOAD 3.0.49; Maxthon)
+Mozilla/5.0 (compatible; MSIE 9.0; Trident 5.0; Windows NT 6.1; SpamBlockerUtility 2.9.46; Zune 2.7.45)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; ru) Opera 11.64
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; SV1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MAAU; MAAU)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MAMD)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MAMI)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MRIE8PACK 2.0.1)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SlimBrowser/6.01.071)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; XBLWP7; ZuneWP7)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; BOIE9;RURU)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MAAU)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MATM)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; NP06)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; msn OptimizedIE8;RURU)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MAAU)
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; MALC)
+Mozilla/5.0 (compatible; Mail.RU_Bot/2.0)
+Mozilla/5.0 (compatible; Mail.RU_Bot/Fast/2.0)
+Mozilla/5.0 (compatible; Nigma.ru/3.0; crawler@nigma.ru)
+Mozilla/5.0 (compatible; SISTRIX Crawler; http://crawler.sistrix.net/)
+Mozilla/5.0 (compatible; YandexBlogs/0.99; robot; B; +http://yandex.com/bots) 1 readers
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexImageResizer/2.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; YandexMetrika/2.1; +http://yandex.com/bots)
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+Mozilla/5.0 (compatible; evc/1.0)
+Mozilla/5.0 (compatible; news bot /2.1)
+Mozilla/5.0 (compatible; woriobot support [at] worio [dot] com +http://worio.com)
+Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14
+Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko)
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X; ru-ru) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.82 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A407 Safari/8536.25
+Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X; uk-ua) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/21.0.1180.82 Mobile/10A403 Safari/7534.48.3
+Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
+Mozilla/5.0 (iPad; CPU OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A8426 Safari/8536.25
+Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko)
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 5_1_1 like Mac OS X; ru-ru) AppleWebKit/534.46 (KHTML, like Gecko) CriOS/23.0.1271.91 Mobile/9B206 Safari/7534.48.3
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mercury/7.0 Mobile/10A403 Safari/8536.25
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A403 Safari/8536.25
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10A523
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0_1 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A523 Safari/8536.25
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0_1 like Mac OS X; ru-ru) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A306 Safari/6531.22.7
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; ru-ru) AppleWebKit/533.17.9 (KHTML, like Gecko) CriOS/23.0.1271.96 Mobile/8J2 Safari/6533.18.5
+Mozilla/5.0(compatible; Sosospider/2.0; +http://help.soso.com/webspider.htm)
+NewsBlur Page Fetcher (7 subscribers) - http://www.newsblur.com (Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/534.48.3 (KHTML, like Gecko) Version/5.1 Safari/534.48.3)
+Opera/8.01 (J2ME/MIDP; Opera Mini/3.1.9427/1724; ru; U; ssr)
+Opera/9.00 (Windows NT 5.1; U; ru)
+Opera/9.01 (Windows NT 5.1; U; en)
+Opera/9.10 (Windows NT 5.1; U; ru)
+Opera/9.63 (Windows NT 5.1; U; ru) Presto/2.1.1
+Opera/9.64 (Windows NT 5.1; U; YB/3.5.1; ru) Presto/2.1.1
+Opera/9.64 (Windows NT 5.1; U; ru) Presto/2.1.1
+Opera/9.80 (Android 2.2; Linux; Opera Tablet/ADR-1212030829) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 2.3.5; Linux; Opera Mobi/ADR-1207201819; U; ru) Presto/2.10.254 Version/12.00
+Opera/9.80 (Android 3.2; Linux; Opera Tablet/ADR-1212030829) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 4.0.3; Linux; Opera Mobi/ADR-1212030829) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android 4.0.3; Linux; Opera Tablet/ADR-1211271253) Presto/2.11.355 Version/12.10
+Opera/9.80 (Android; Opera Mini/6.0.24556/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/7.0.29952/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/7.5.31657/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/7.5.31658/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Android; Opera Mini/7.5.32193/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/4.3.13057/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.21214/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/5.1.23468/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.1.25378/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/6.5.26955/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.28870/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.29915/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.0.30567/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32052/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (J2ME/MIDP; Opera Mini/7.1.32254/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Macintosh; Intel Mac OS X 10.7.4; U; Edition Yx; ru) Presto/2.9.168 Version/11.51
+Opera/9.80 (Macintosh; Intel Mac OS X 10.7.4; U; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Series 60; Opera Mini/7.0.28965/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Series 60; Opera Mini/7.0.30697/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Series 60; Opera Mini/7.0.31380/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Series 60; Opera Mini/7.0.32400/28.3234; U; ru) Presto/2.8.119 Version/11.10
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; 0D5436BC-537A-C598-19F3-E86CD3746ECB) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; 74624AE1-EBE9-E1F5-F1BB-5623BD163F1D) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; ; MRSPUTNIK OW 2, 2, 0, 94; MRA 5.6 (build 03278)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; Edition Campaign 04) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; Edition Campaign 09) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.1; Edition Rambler) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.1; Edition Rambler) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; Edition Ukraine Local) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; Edition Yx 01) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; Edition Yx) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.1; Edition Yx) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.10 (build 5310)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.10 (build 5339)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.5 (build 02842)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.7 (build 03797)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.8 (build 4156)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.8 (build 4157)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 5.9 (build 4953)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5680)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5704)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5972)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5976)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 5998)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 6001)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 6001)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 6.0 (build 6005)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; MRA 8.0 (build 5880)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; U; ; MRSPUTNIK OW 2, 3, 0, 104; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; Edition Campaign 09; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; Edition Campaign 09; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; Edition Rambler; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; Edition Ukraine Local; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; Edition Ukraine Local; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; Edition Yandex; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; Edition Yx 01; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; Edition Yx 01; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; Edition Yx 01; ru) Presto/2.7.62 Version/11.01
+Opera/9.80 (Windows NT 5.1; U; Edition Yx; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; Edition Yx; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; Edition Yx; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; IBM EVV/3.0/EAK01AG9/LE; ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5278); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5288); ru) Presto/2.2.15 Version/10.10
+Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5308); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5310); ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5310); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; MRA 5.10 (build 5339); ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; MRA 5.5 (build 02842); ru) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 5.1; U; MRA 5.7 (build 03686); ru) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 5.1; U; MRA 5.7 (build 03796); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; MRA 5.7 (build 03797); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; MRA 5.8 (build 4133); ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 5.1; U; MRA 5.8 (build 4598); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; MRA 5.9 (build 4953); ru) Presto/2.5.24 Version/10.54
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5680); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5754); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5754); ru) Presto/2.2.15 Version/10.00
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5831); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5970); ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5972); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5972); ru) Presto/2.7.62 Version/11.00
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 5976); ru) Presto/2.9.168 Version/11.52
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 6001); ru) Presto/2.10.229 Version/11.61
+Opera/9.80 (Windows NT 5.1; U; MRA 6.0 (build 6001); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; MRA 8.0 (build 5861); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; be) Presto/2.2.15 Version/10.00
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.61
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.2.15 Version/10.00
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.2.15 Version/10.10
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.5.24 Version/10.53
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.6.30 Version/10.61
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.7.62 Version/11.00
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.7.62 Version/11.01
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.8.131 Version/11.10
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.8.131 Version/11.11
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.9.168 Version/11.51
+Opera/9.80 (Windows NT 5.1; WOW64) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; WOW64; MRA 5.10 (build 5310)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; WOW64; MRA 5.7 (build 03797)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 5.1; WOW64; U; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.1; YB/3.5.1) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 5.2; U; en) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 5.2; WOW64) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.0; Edition Yx) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.0; U; MRA 5.7 (build 03796); ru) Presto/2.9.168 Version/11.51
+Opera/9.80 (Windows NT 6.0; U; en) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.0; U; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.0; U; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.0; U; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.0; WOW64) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.0; WOW64; U; ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Distribution 00) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; Distribution 00) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Edition Next) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; Edition Next) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Edition Ukraine Local) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Edition Yx 01) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Edition Yx) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; Edition Yx) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 5.10 (build 5310)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 5.10 (build 5339)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 5.7 (build 03797)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; MRA 5.7 (build 03797)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 5.8 (build 4133)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 5.8 (build 4664)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 5.9 (build 4953)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5475)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5680)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5704)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5754)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5966)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5970)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5976)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 5993)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 6001)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 6001)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; MRA 6.0 (build 6005)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; U; DepositFiles/FileManager 0.9.9.206 YB/5.0.3; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; Edition DriverPack; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; Edition Next; ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; U; Edition Rambler; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; Edition Ukraine Local; en) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; Edition Yx 01; ru) Presto/2.10.229 Version/11.61
+Opera/9.80 (Windows NT 6.1; U; Edition Yx 01; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; Edition Yx; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; U; Edition Yx; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; Edition Yx; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; IBM EVV/3.0/EAK01AG9/LE; YB/3.5.1; ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 6.1; U; MRA 5.10 (build 5265); ru) Presto/2.7.62 Version/11.00
+Opera/9.80 (Windows NT 6.1; U; MRA 5.10 (build 5310); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; MRA 5.10 (build 5328); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; MRA 5.10 (build 5339); ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; U; MRA 5.10 (build 5339); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; MRA 5.7 (build 03757); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; U; MRA 5.7 (build 03757); ru) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 6.1; U; MRA 5.7 (build 03791); ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5680); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5711); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5711); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5754); ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5831); ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5970); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5970); ru) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5972); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5972); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5972); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5972); ru) Presto/2.7.62 Version/11.00
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5976); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 5997); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; MRA 6.0 (build 6001); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; MRA 8.0 (build 5745); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; YB/5.0.3; ru) Presto/2.2.15 Version/10.10
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.10.229 Version/11.61
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.7.62 Version/11.01
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.61
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.2.15 Version/10.00
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.2.15 Version/10.10
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.5.24 Version/10.54
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.6.30 Version/10.63
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.7.62 Version/11.01 YB/5.2.2
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.8.131 Version/11.10
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.8.131 Version/11.11
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.50
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.51
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.52
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.211 Version/12.00
+Opera/9.80 (Windows NT 6.1; U; uk) Presto/2.10.229 Version/11.60
+Opera/9.80 (Windows NT 6.1; U; uk) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; Distribution 00) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; Edition DriverPack) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; Edition Rambler) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; WOW64; Edition Ukraine Local) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; Edition Yx) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.10 (build 5231)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.10 (build 5265)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.10 (build 5308)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.10 (build 5310)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.10 (build 5328)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.5 (build 02842)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.9 (build 4953)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5970)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5972)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5976)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5997)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5998)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 6001)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 6005)) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 6005)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; MRSPUTNIK OW 2, 3, 0, 287) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Next; Edition Yx; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Ukraine Local; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Ukraine Local; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Yx 01; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Yx 01; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Yx; MRA 6.0 (build 5997); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Yx; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Yx; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; Edition Yx; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.10 (build 5267); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.10 (build 5310); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.10 (build 5339); ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.10 (build 5339); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.10 (build 5339); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 5.9 (build 4876); ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 6.0 (build 5680); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 6.0 (build 5970); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 6.0 (build 5976); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 6.0 (build 5998); ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 6.0 (build 6001); ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 6.0 (build 6001); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; WOW64; U; MRA 8.0 (build 5880); ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; WOW64; U; en) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; WOW64; U; en) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.229 Version/11.62
+Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.229 Version/11.64
+Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (Windows NT 6.1; WOW64; U; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.1; Win64; x64) Presto/2.12.388 Version/12.10
+Opera/9.80 (Windows NT 6.1; Win64; x64) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Win64; x64; Edition Yx) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.1; Win64; x64; U; Edition Yx; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; Win64; x64; U; ru) Presto/2.10.289 Version/12.00
+Opera/9.80 (Windows NT 6.1; Win64; x64; U; ru) Presto/2.10.289 Version/12.02
+Opera/9.80 (Windows NT 6.2) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.2; MRA 6.0 (build 6005)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.2; WOW64; MRA 6.0 (build 6005)) Presto/2.12.388 Version/12.11
+Opera/9.80 (Windows NT 6.2; WOW64; U; ru) Presto/2.10.289 Version/12.01
+Opera/9.80 (X11; Linux i686) Presto/2.12.388 Version/12.10
+Opera/9.80 (X11; Linux i686) Presto/2.12.388 Version/12.11
+Opera/9.80 (X11; Linux i686; U; ru) Presto/2.10.229 Version/11.60
+Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; MRA 5.9 ; build 4876; MRSPUTNIK 2, 4, 0, 410; GTB7.4; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; TmstmpExt)
+Outlook-Express/7.0 (MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MDDC; .NET4.0C; InfoPath.3; TmstmpExt)
+Python-urllib/2.6
+Python-urllib/2.6 distribute/0.6.30
+Python-urllib/2.7
+R6_CommentReader(www.radian6.com/crawler)
+R6_FeedFetcher(www.radian6.com/crawler)
+RamblerMail/6.0 (incompatible; ImageProxy/6.0)
+Reeder/1.5.5 CFNetwork/548.1.4 Darwin/11.0.0
+Reeder/1.5.7 CFNetwork/548.1.4 Darwin/11.0.0
+Reeder/1.5.7 CFNetwork/609 Darwin/13.0.0
+Reeder/1010.49.00 CFNetwork/520.5.1 Darwin/11.4.2 (x86_64) (MacBookPro6%2C1)
+Reeder/1010.79.00 CFNetwork/520.5.1 Darwin/11.4.2 (x86_64) (MacBookAir4%2C2)
+Reeder/1010.79.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookAir3%2C2)
+Reeder/1010.79.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookPro8%2C2)
+Reeder/1010.79.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacPro3%2C1)
+Reeder/1010.79.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (Macmini5%2C2)
+Reeder/1010.79.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (iMac12%2C1)
+Reeder/1010.79.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (iMac12%2C2)
+Reeder/1020.09.00 CFNetwork/520.5.1 Darwin/11.4.2 (x86_64) (MacBookPro8%2C1)
+Reeder/1020.09.00 CFNetwork/520.5.1 Darwin/11.4.2 (x86_64) (MacPro3%2C1)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookAir3%2C2)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookAir4%2C1)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookAir4%2C2)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookPro8%2C1)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacBookPro8%2C2)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (MacPro4%2C1)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (iMac10%2C1)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (iMac12%2C1)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.0 (x86_64) (iMac12%2C2)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.1 (x86_64) (MacBookAir5%2C2)
+Reeder/1020.09.00 CFNetwork/596.2.3 Darwin/12.2.1 (x86_64) (MacBookPro10%2C1)
+Reeder/3.0.5 CFNetwork/548.1.4 Darwin/11.0.0
+Reeder/3.0.5 CFNetwork/609 Darwin/13.0.0
+Ruby
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+Safari/6534.57.2 CFNetwork/454.12.4 Darwin/10.8.0 (x86_64) (MacBookPro8%2C1)
+Si530cM4CX0Cg0R
+W3C_Validator/1.3
+W3C_Validator/1.767
+Wget/1.12 (linux-gnu)
+Wotbox/2.01 (+http://www.wotbox.com/bot/)
+YandexBlogs
+Yeti/1.0 (NHN Corp.; http://help.naver.com/robots/)
+Zemanta Aggregator/0.7 +http://www.zemanta.com
+Zend_Http_Client
+bzgzyljVFrFD5Fr9Hl86
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+facebookplatform/1.0 (+http://developers.facebook.com)
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+ia_archiver(OS-Wayback)
+linkdex.com/v2.0
+magpie-crawler/1.1 (U; Linux amd64; en-GB; +http://www.brandwatch.net)
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+n91D1r8YD
+nqQAG2oFGqa7
+pO0L3W0LYB87nETf9c3KD3o
+psbot/0.1 (+http://www.picsearch.com/bot.html)
+spray-can/1.0-M4.2
+viralvideochart.unrulymedia.com
+www.integromedb.org/Crawler
+xFVG5Co5SHI6cF0pN
+xpymep.exe
+y2mvs7Gf7G153o7TG

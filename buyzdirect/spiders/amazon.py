@@ -85,7 +85,7 @@ class AmazonSpider(BaseSpider):
                 get_text('//img[@id="main-image"]/@src') or
                 get_text('//*[@id="prodImageCell"]//img/@src')
             ),
-            description=description,
+            description=description.strip(),
             in_stock=None,
         )
         avail_green = hxs.select('//*[@class="availGreen"]')

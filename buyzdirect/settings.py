@@ -5,8 +5,6 @@ BOT_NAME = 'buyzdirect'
 SPIDER_MODULES = ['buyzdirect.spiders']
 NEWSPIDER_MODULE = 'buyzdirect.spiders'
 
-USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.83 Safari/535.11'
-
 ITEM_PIPELINES = [
     'buyzdirect.pipeline.ValidateFields',
     'buyzdirect.pipeline.SaveToDB',
@@ -17,7 +15,11 @@ CONCURRENT_REQUESTS_PER_DOMAIN = CONCURRENT_REQUESTS
 HTTPCACHE_ENABLED = True
 
 DOWNLOADER_MIDDLEWARES = {
-    'scrapy_proxynova.middleware.HttpProxyMiddleware': 543,
+    # we'll turn off standart user agent middleware
+    'scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware': None,
+
+    'scrapy_proxynova.middleware.HttpProxyMiddleware': 755,
+    'scrapy_useragents.middleware.UserAgentsMiddleware': 400,
 }
 
 PROXY_SERVER_COUNTRY = 'us'
